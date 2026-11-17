@@ -5,7 +5,7 @@ title: "Wane Academy"
 
 # Privacy Policy
 
-Last updated: **November 16, 2026**
+Last updated: **November 17, 2026**
 
 ## Introduction
 
@@ -153,11 +153,24 @@ The App stores the device type for notification and technical purposes; this doe
 
 Password information is used for authentication and is not intended to be displayed to other users. The security of stored password information depends on the authentication and storage mechanisms implemented by the service.
 
-### 1.8. Information We Do Not Intentionally Request
+### 1.8. Uploaded Files and Attachments
 
-The App's core features do not require access to your precise GPS location, contacts, or personal photo library.
+Wane Academy allows users to upload files for specific educational and communication purposes. Depending on the user's role and the features available to their account, these may include:
 
-The App does not intentionally collect such information for advertising or user profiling purposes. Certain features, such as camera or microphone access during online classes, are requested only when needed for those features.
+- Files and attachments shared in chat or internal communication features
+- Assignments and supporting documents submitted by Students
+- Recorded class videos uploaded by Teachers
+- Other educational files submitted through the App
+
+When you choose to upload a file, the App may use the system file picker or the relevant file-selection feature provided by your device to let you select it. The App processes the file you choose so it can be uploaded to Wane Academy's servers and made available for the relevant educational or communication purpose. Uploaded files may be stored on the servers and accessed by the intended recipients and authorized Academy personnel, according to the platform's access controls.
+
+The App's use of files for these features is based on your selection and the permissions or access provided by your device's operating system. Selecting a file for upload does not mean that the App needs unrestricted access to all files stored on your device.
+
+### 1.9. Information We Do Not Intentionally Request
+
+The App's core features do not require access to your precise GPS location or contacts.
+
+The App does not intentionally collect such information for advertising or user profiling purposes. Certain features, such as camera or microphone access during online classes, and file selection when uploading attachments, are used only when needed for those features.
 
 ## 2. Permissions I Request
 
@@ -169,10 +182,11 @@ Depending on the features you use and your device's operating system, the App ma
 | **Notifications** | Receiving letters, announcements, and important educational updates | No |
 | **Microphone** | Participating in online classes when audio communication is required | Optional |
 | **Camera** | Participating in online classes when video communication is required | Optional |
+| **Files / file selection** | Selecting and uploading chat attachments, Student assignments, and recorded class videos uploaded by Teachers | Optional; used when you choose to upload a file |
 
-The availability of microphone and camera permissions depends on the online meeting features and the device's operating system.
+The availability of microphone, camera, and file-selection access depends on the features you use and your device's operating system. Depending on the platform, file selection may be handled through the system file picker without granting the App broad access to your device's storage. You can choose which file to upload when the system file picker is presented.
 
-I do not request access to your camera or microphone for advertising purposes.
+I do not request access to your camera or microphone for advertising purposes, and files are not accessed for advertising purposes.
 
 ## 3. Third-Party Services
 
