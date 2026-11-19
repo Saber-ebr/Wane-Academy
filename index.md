@@ -30,6 +30,7 @@ The following information may be associated with your account:
 - **Password or password-verification information**, used to authenticate your account
 - **Email address** and other contact information, where provided
 - **User role** (Teacher or Student)
+- **Referral code** assigned to your account and used to identify or recognize the relevant user within the platform
 - **Account status** (active, inactive, or suspended)
 - **Assigned classes and group memberships**
 - **Educational and administrative information** associated with your participation in the Academy
@@ -142,6 +143,7 @@ Information stored or processed on the server may include:
 - **Password or password-verification information**, used to authenticate the account
 - **Educational information**, including class assignments, schedules, attendance, activities, examination submissions, results, and other academic records
 - **Account role and status**
+- **Referral code** associated with the account, used for user identification and recognition within Wane Academy
 - **Device type or platform** (for example, Android or iOS), used where necessary to identify the appropriate push notification delivery route
 - **Device push token** or a similar technical identifier, used to deliver push notifications
 - **IP address**, which may appear in standard server logs
@@ -166,7 +168,13 @@ When you choose to upload a file, the App may use the system file picker or the 
 
 The App's use of files for these features is based on your selection and the permissions or access provided by your device's operating system. Selecting a file for upload does not mean that the App needs unrestricted access to all files stored on your device.
 
-### 1.9. Information We Do Not Intentionally Request
+### 1.9. Referral Codes
+
+Wane Academy assigns a referral code to each user account, including both Teacher and Student accounts. These codes are used for identification and recognition purposes within the platform and may be associated with the relevant user account when used.
+
+At present, referral codes do **not** provide users with financial benefits, commissions, payments, discounts, or other monetary rewards. Their current purpose is limited to identifying or recognizing users within Wane Academy. If the purpose or functionality of referral codes changes in the future, this Privacy Policy will be updated where appropriate.
+
+### 1.10. Information We Do Not Intentionally Request
 
 The App's core features do not require access to your precise GPS location or contacts.
 
